@@ -10,6 +10,6 @@ A simple sentiment analysis based text classification using Google BERT for muse
 
 Did this project on [Google Colab](https://colab.research.google.com).
 
-Python 3 is required.Install requirements using pip package manager.
+Python 3 is required. Install the requirements using pip package manager.
 
 `pip install -r requirements`
